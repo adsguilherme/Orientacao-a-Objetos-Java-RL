@@ -1,0 +1,25 @@
+package heranca;
+
+public class Colaborador extends Pessoa { // 'extends Pessoa' faz com que a classe Colaborar tenha acesso aos atributos e méetodos da classe Pessoa.
+
+    // Atributos
+    private String cargo;
+    private double salario;
+
+    // Metodo
+    public void mensagemColaborador(){
+        System.out.println("Cargo: " + cargo);
+        System.out.println("Salário: " + salario);
+    }
+
+    // Construtor
+    public Colaborador(String nome, int idade, double salario, String cargo){
+        this.nome = nome;
+        this.idade = idade;
+        this.salario = salario;
+        this.cargo = cargo;
+
+        mensagemPessoa();
+        mensagemColaborador();
+    }
+}
