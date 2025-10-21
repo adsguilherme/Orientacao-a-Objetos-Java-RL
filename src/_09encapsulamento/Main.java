@@ -1,4 +1,4 @@
-package encapsulamento;
+package _09encapsulamento;
 
 public class Main {
     void main() {

@@ -5,7 +5,7 @@
  *
  **/
 
-package heranca;
+package _13heranca;
 
 public class Main {
 

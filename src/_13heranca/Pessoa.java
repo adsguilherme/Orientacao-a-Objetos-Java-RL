@@ -1,4 +1,4 @@
-package heranca;
+package _13heranca;
 
 public class Pessoa {
     // Atributos

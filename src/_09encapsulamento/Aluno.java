@@ -1,4 +1,4 @@
-package encapsulamento;
+package _09encapsulamento;
 
 // Private: apenas a classe Aluno terá acesso aos atributos e métodos.
 

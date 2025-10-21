@@ -3,7 +3,7 @@
 *  Todo construtor terá o nome da classe.
 */
 
-package construtor;
+package _11construtor;
 
 public class Media {
 
