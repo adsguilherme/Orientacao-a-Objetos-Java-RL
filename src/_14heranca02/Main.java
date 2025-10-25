@@ -36,6 +36,6 @@ public class Main {
  * • Pessoa é a classe pai (superclasse).
  * • Colaborador é a classe filha (subclasse) de Pessoa.
  *
- * Isso permite que um objeto Colaborador tenha acesso aos atributos nome e idade e ao método mensagemPessoa() definidos na classe Pessoa, além de seus próprios atributos (salario, cargo) e método (mensagemColaborador()).
+ * Isso permite que um objeto Colaborador tenha acesso aos atributos nome e idade e ao metodo mensagemPessoa() definidos na classe Pessoa, além de seus próprios atributos (salario, cargo) e método (mensagemColaborador()).
  *
  */
