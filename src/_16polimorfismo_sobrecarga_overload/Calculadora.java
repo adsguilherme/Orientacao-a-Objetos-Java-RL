@@ -1,5 +1,7 @@
 // Polimorfismo: Significa várias formas.
 
+// Temos 2 metodos (somar) com o mesmo nome, porém com retornos diferentes.
+
 package _16polimorfismo_sobrecarga_overload;
 
 public class Calculadora {
@@ -13,6 +15,4 @@ public class Calculadora {
     public int somar(int n1, int n2, int n3) {
         return n1 + n2 + n3;
     }
-
-    // Temos 2 metodos com o mesmo nome, porém com retornos diferentes.
 }

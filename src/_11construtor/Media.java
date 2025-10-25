@@ -1,6 +1,7 @@
 /*
 *  Todo construtor deve ser sempre public.
 *  Todo construtor terá o nome da classe.
+*  Construtor inicializa os atributos.
 */
 
 package _11construtor;
